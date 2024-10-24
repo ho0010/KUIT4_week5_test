@@ -21,6 +21,10 @@ const InputBar = ({ addProduct }) => {
     setNewProduct({ category: "", price: 0, stocked: true, name: "" });
   };
 
+  //deleteProduct
+
+  //editProduct
+
   return (
     <form>
       <input
